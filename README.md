@@ -50,7 +50,9 @@ to practice, I hope you understand
 
 # Requirements
 -Have Python installed
+
 -Have at least one code editor (VSC, Notepad++, etc.)
+
 -Have Git
 
 # How to Install
