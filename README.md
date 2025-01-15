@@ -7,7 +7,9 @@ para practicar, espero se entienda
 
 # Requisitos
 -Tener Python instalado
+
 -Tener al menos un editor de código (VSC, Notepad++, etc)
+
 -Tener Git
 
 # Instalación 
