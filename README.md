@@ -1,9 +1,9 @@
 # Python IP Info
 Herramienta simple que da la información de una dirección IP con la API IPinfo.io 
 
-# Advertencia
-No me hago responsable del uso malicioso de este programa, solo lo desarrollé por diversión y 
-para practicar, espero se entienda
+> [!CAUTION]
+> No me hago responsable del uso malicioso de este programa, solo lo desarrollé por diversión y 
+> para practicar, espero se entienda
 
 # Requisitos
 -Tener Python instalado
@@ -16,23 +16,24 @@ para practicar, espero se entienda
 Antes de usar Git Bash, abre el archivo ip-info.py y remplaza el valor de la variable APIKey por tu API Key de 
 IPinfo.io, tras eso entra a Git Bash
 
-En Git Bash, escribe: 
+## Instalación de Paquetes
 ```
 pip install requests
+pip install pyfiglet
+pip install termcolor
+pip install colorama
 ```
-(En caso de que no tengas todavia el módulo Requests)
+(En caso de que no los tengas instalados)
 
-Tras eso, usa el comando:
+## Clonación e Instalación principal
 ```
 git clone https://github.com/UnDeveloperMas/python-ip-info
 ```
 
-Luego, ingresa: 
 ```
 cd python-ip-info
 ```
 
-Finalmente digita:
 ```
 python ip-info.py
 ```
@@ -44,9 +45,9 @@ Espero que esta herramienta sea útil para ti! :D
 # English Version
 Python IP Info, Simple tool that gives information about an IP address with the IPinfo.io API 
 
-# Warning
-I am not responsible for any malicious use of this program, I only developed it for fun and 
-to practice, I hope you understand
+> [!CAUTION]
+> I am not responsible for any malicious use of this program, I only developed it for fun and 
+> to practice, I hope you understand
 
 # Requirements
 -Have Python installed
@@ -59,23 +60,23 @@ to practice, I hope you understand
 Before using Git Bash, open the ip-info-en.py file and replace the value of the APIKey variable with your API Key of
 IPinfo.io, after that enter Git Bash
 
-On Git Bash, type: 
+## How to Install packets
 ```
 pip install requests
+pip install pyfiglet
+pip install termcolor
+pip install colorama
 ```
-(In case you don't have the Requests module yet)
 
-After that, use the command:
+## Clonation and Principal Installation
 ```
 git clone https://github.com/UnDeveloperMas/python-ip-info
 ```
 
-Then, enter: 
 ```
 cd python-ip-info
 ```
 
-Finally digite:
 ```
 python ip-info-en.py
 ```
