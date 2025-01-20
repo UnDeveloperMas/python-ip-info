@@ -35,7 +35,7 @@ cd python-ip-info
 ```
 
 ```
-python ip-info.py
+python main.py
 ```
 
 Espero que esta herramienta sea útil para ti! :D
@@ -78,7 +78,7 @@ cd python-ip-info
 ```
 
 ```
-python ip-info-en.py
+python main-english.py
 ```
 
 I hope this tool maybe be useful for you! :D
